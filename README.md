@@ -1,2 +1,2 @@
 # Javascript
-code repo for javascript series
+code repo for javascript
